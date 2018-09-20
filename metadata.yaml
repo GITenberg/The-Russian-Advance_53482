@@ -1,11 +1,16 @@
 _repo: The-Russian-Advance_53482
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53482-h/images/cover.jpg
 creator:
   author:
     agent_name: Murray, Marr
     gutenberg_agent_id: '471'
     url: http://www.gutenberg.org/2009/agents/471
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53482#The-Russian-Advance
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2016-11-09'
 gutenberg_type: Text
