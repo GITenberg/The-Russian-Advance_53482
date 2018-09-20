@@ -1,0 +1,27 @@
+_repo: The-Russian-Advance_53482
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Murray, Marr
+    gutenberg_agent_id: '471'
+    url: http://www.gutenberg.org/2009/agents/471
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2016-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53482'
+  lccn: '15003036'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Campaigns -- Eastern Front'
+- GITenberg
+tableOfContents: Introduction -- The nation and the war -- Mobilisation -- The Polish
+  proclamation -- The preliminary phase -- The advance into eastern Prussia -- The
+  advance into Galicia -- The significance of Lemberg -- Conclusion.
+title: The Russian Advance
+url: http://www.gutenberg.org/ebooks/53482
